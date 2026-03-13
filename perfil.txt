@@ -3,3 +3,5 @@ Curso: Análise e desenvolvimento de Sistemas
 Linguagens favoritas: JavaScript e python
 Objetivo profissional: Analista de dados
 Hobbies: Jogar, Desenhar, tocar guitarra, programar
+
+link github:https://github.com/BeatrizSRibeiro
